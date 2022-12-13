@@ -11,7 +11,7 @@
 <body>
 <h1>trang chủ admin</h1>
 <!-- Navigation -->
-	<%@ include file="/WEB-INF/views/common/web/header.jsp" %>
+	<%@ include file="/WEB-INF/views/web/header.jsp" %>
 	<dec:body/>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
