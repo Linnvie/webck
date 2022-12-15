@@ -1,11 +1,12 @@
-
-
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <%@include file = "/WEB-INF/views/tagLib/tagLib.jsp"%>
 <!DOCTYPE html>
 <html>
 
 <head>
   <!-- Basic -->
+  <base href="${pageContext.servletContext.contextPath}/">
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <!-- Mobile Metas -->
@@ -19,10 +20,7 @@
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
-
-  <!-- bootstrap core css -->
-  <link href="<c:url value='/resources/user/css/bootstrap.css'/>" rel="stylesheet" type = "text/css" media="all">
-
+  
   <!-- gg icons -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
@@ -31,18 +29,22 @@
 
   <!-- bootstrap icons -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  
+  <!-- bootstrap core css -->
+  <link href="./resources/user/css/bootstrap.css"" rel="stylesheet" type = "text/css">
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Poppins:400,600,700&display=swap" rel="stylesheet">
+  
   <!-- Custom styles for this template -->
-  <link href="<c:url value='/resources/user/css/style.css'/>" rel="stylesheet" type = "text/css" media="all">
+  <link href="./resources/user/css/style.css" rel="stylesheet" type = "text/css">
   
   <!-- responsive style -->
-  <link href="<c:url value='/resources/user/css/responsive.css'/>" rel="stylesheet" type = "text/css" media="all">
+  <link href="./resources/user/css/responsive.css" rel="stylesheet" type = "text/css">
 </head>
 
 <body>
-    <!-- header section strats -->
+    <!-- header section starts -->
   <header class="header_section" style="background-color: white;">
     <div class="container">
       <nav class="navbar navbar-expand-lg custom_nav-container ">
