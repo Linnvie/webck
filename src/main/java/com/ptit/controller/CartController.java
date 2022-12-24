@@ -5,16 +5,16 @@ import javax.servlet.http.HttpSession;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 
-public class KhachController {
+public class CartController {
 	
-	@RequestMapping (value ="/trangchu", method=RequestMethod.GET)
-	public String showIndex() {
-//		System.out.println("trang chu");
-		return "web/trangchu";
+	@RequestMapping("/giohang")
+	public String cart(Model model, HttpSession session) {
+//		System.out.println("gio hang");
+//		model.addAttribute("cart", session);
+		return "web/giohang";
 	}
 
 }
