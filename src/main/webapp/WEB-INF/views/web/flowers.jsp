@@ -57,7 +57,7 @@
         <div class="row" style="clear:both;">
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg">
                     <div class="badge_img">Best seller</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -70,7 +70,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg">
                     <div class="badge_img">Best seller</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -81,7 +81,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg">
                     <div class="badge_img">New arrival</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -94,7 +94,7 @@
         <div class="row mt-4">
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg">
                     <div class="badge_img ">Available</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -105,7 +105,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg">
                     <div class="badge_img">Best seller</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -116,7 +116,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg">
                     <div class="badge_img">New arrival</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -129,7 +129,7 @@
         <div class="row mt-4">
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg">
                     <div class="badge_img">Available</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -140,7 +140,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg">
                     <div class="badge_img">New arrival</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -151,7 +151,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg">
                     <div class="badge_img">Best seller</div>
                 </div>
                 
@@ -165,7 +165,7 @@
         <div class="row mt-4">
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/9e/6e/a8/9e6ea8bf628ef7f30a0ab6a4cdb03904.jpg">
                     <div class="badge_img">New arrival</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -176,7 +176,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/10/db/8b/10db8bc384ab440daee4d3a77c2f4939.jpg">
                     <div class="badge_img">Available</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">
@@ -187,7 +187,7 @@
             </div>
             <div class="product_item col-md-4 d-flex flex-column">
                 <div class="div_img">
-                    <!-- <img src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg"> -->
+                    <img class="flower-img" src="https://i.pinimg.com/564x/e9/29/ce/e929cea3a9335896622e6ebc85ac896e.jpg">
                     <div class="badge_img">Best seller</div>
                 </div>
                 <div class="d-flex flex-row justify-content-between px-2 py-2" style="background-color: #FBEDE2;">

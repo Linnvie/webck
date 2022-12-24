@@ -12,5 +12,10 @@ public class KhachController {
 	public String showIndex() {
 		return "web/trangchu";
 	}
+	
+	@RequestMapping("/giohang")
+	public String cart() {
+		return "web/giohang";
+	}
 
 }

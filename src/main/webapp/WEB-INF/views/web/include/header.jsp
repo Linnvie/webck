@@ -82,7 +82,7 @@
               search
               </span></a>
             
-            <a class="mr-3" href="">
+            <a class="mr-3" href="<c:url value ="/giohang"/>">
               <span class="material-symbols-outlined">
                 shopping_basket
                 </span>

@@ -1,8 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-    <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-    <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>  
-    
+<!-- Header start  -->
+<%@include file="/WEB-INF/views/web/include/header.jsp"%>
+<!-- Header End -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -190,5 +190,13 @@ ${message}
 	    $("#datepicker").datepicker();
 	  });
 </script>
+  <!-- Footer -->
+<%@include file="/WEB-INF/views/web/include/footer.jsp"%>
+<!-- Footer End -->
+
+
+<!-- JS Lib -->
+<%@include file="/WEB-INF/views/web/include/jsLib.jsp"%>
+<!-- JS Lib End -->
 </body>
 </html>
